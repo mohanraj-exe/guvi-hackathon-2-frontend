@@ -12,7 +12,6 @@ import Button from '@mui/material/Button';
 
 function App() {
 
-  const { products } = data; 
   function Home() {
     return (
       <>
